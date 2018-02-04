@@ -1,4 +1,6 @@
-# Readings Week 1
+# Reading Response Week 2
+
+**AI Revolutions**
 
 I liked how Tim Urban started his entire article by first explaining the Law of Accelerating returns. He knew how implausible some of his ideas might seem so he established the fact that everything he was writing had a strong foundation in reality and that he was not just talking about the plot of a Sci-fi film.
 Speaking of Sci-fi, in the second article the author talked about how movies have totally distorted our idea of AI and how we perceive them to be. I completely agree with him and I too have been influenced by representations of AI in popular culture. My idea of AI was something similar to VIKI from the movie iRobot. Now, with the information that the author gives about the three different kinds of AI and the example of Turry (the note writing bot/AI that took over the galaxy), I have a lot more clarity about what AI is and what it can do.
