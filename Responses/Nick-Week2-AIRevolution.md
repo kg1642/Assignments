@@ -1,15 +1,10 @@
-Post one response that includes thoughts/reactions to both the reading and the game:
-Read AI Revolution Parts 1
-Play Paperclips Go as far (or not) as you want with it.
-
-
-AI Revolution [Part 1]: 
+##AI Revolution [Part 1]: 
 
 The [AI Revolution article](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) starts with having to understand the Law of Accelerating Returns. In this quick introduction, I quickly was hooked on this topic at hand. I suddenly thouht about technology in my life time that I had seen develop. From the first flip phone that I owned, to the iPhone I own now. I remember when I used to accidentally hit the internet button on my flip phone and try as quickly as possible to close out of the program because it was so expensive. Back then, I never thought that I would ever go on the internet on my cell phone. From there, I saw the first commercials for the new iPod Touch; I was in shock to see a touch screen that wasn't in a sci-fi movie. From there, I now have a touch screen phone, with internet access, and the ability to do things like Augmented Reality. This is all to say that even in my lifetime, the advancements of technology are rapid.   
 
 From there, I enjoyed the discussion on how humans think the gap between the "village idiot" and Einstein is so large. In reality, the gap between human intelligence on the larger scale is much smaller than we realize. In relation to A.I., this means that as soon as we have the capability to create an AI system with "village idiot" intelligence, it wont be long before the first "mechanical Einstein" comes along. This fact is something that we should all be talking about more, if for nothing more than making sure Engineers are creating AI in a safe/well-thoughtout manner. 
 
-[Below has spoilers from Part 2]
+### Below has _spoilers_ from Part 2
 
 In tandom with this reading, I was quickly absorbed in the [pAIperclips](http://www.decisionproblem.com/paperclips/index2.html) online game. While reading, I quickly saw some parallels to the paperclips game. In the readings when the topic of nantechnology comes along, all I could think about were the drones I sent out to collect materials for my paperclips. Although I have not finished the game, I can foresee an ending similar to the writing robot story from the article. My drones might not understand that taking over the human race, Earth, or even Outer Space is not what I want. To them though, it is necessary to complete their goal of creating paperclips. This brings us back to the conversation that needs to be had for our own safety. We need to think about how we are to program AI, to protect ourselves from them. 
 In closing to those comments, I was happy to read about the Good vs. Evil AI in the article. It helps readers understand that AI is not going to take over (and make paperclips?) and kill the human race because it is evil. It doesnt understand good and evil. AI will not be human. If it thinks that ridding the Earth of humans will help it achieve its goal, then thats just what it might do though..
